@@ -1,0 +1,6 @@
+framework module Pods_FarmersMarked {
+  umbrella header "Pods-FarmersMarked-umbrella.h"
+
+  export *
+  module * { export * }
+}
